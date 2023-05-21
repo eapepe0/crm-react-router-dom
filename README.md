@@ -16,4 +16,7 @@ Proyecto realizado en **React** , utilice **React Router DOM v6** , **useActionD
 
 ![screenshoot](https://raw.githubusercontent.com/eapepe0/crm-react-router-dom/main/screen3.jpg)
 
+## Performance
+
+![screenshoot](https://raw.githubusercontent.com/eapepe0/crm-react-router-dom/main/performance.jpg)
 
