@@ -5,7 +5,7 @@ Proyecto realizado en **React** , utilice **React Router DOM v6** , **useActionD
 
 ## Deploy
 
-[Link a la pagina](https://vocal-crumble-6506bf.netlify.app/)
+[Link a la pagina](https://radiant-dieffenbachia-68b2fc.netlify.app/)
 ## Imagenes demo
 
 ![screenshoot](https://raw.githubusercontent.com/eapepe0/crm-react-router-dom/main/screen0.jpg)
